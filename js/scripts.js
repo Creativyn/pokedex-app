@@ -1,0 +1,1 @@
+let pokemonList = [{name: 'Ninetales', height: '1', type: 'fire'}, {name: 'Fearow', height: '1', type: ['flying', 'normal']}, {name: 'Arbok', height: '3', type: 'poison'}, {name: 'Scyther', height: '1', type: ['bug', 'flying']}, {name: 'Umbreon', height: '1', type: 'dark'}, {name: 'Lugia', height: '5', type: ['psychic','flying']}]

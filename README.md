@@ -1,0 +1,1 @@
+This project will show statisics of various Pokemon and connect to an API, https://www.pokemon.com/us/pokedex. This project will use HTML and JavaScript.
