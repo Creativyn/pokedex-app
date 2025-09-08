@@ -4,3 +4,16 @@ body {
   line-height: 1.6;
   text-align: center;
 }
+p {
+  font-family: "Henny Penny", sans-serif;
+  font-size: 16px;
+}
+h1 {
+  font-family: "Mystery Quest", sans-serif;
+  font-size: 20px;
+}
+.panel__type {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
