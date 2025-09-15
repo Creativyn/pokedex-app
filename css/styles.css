@@ -2,7 +2,7 @@ body {
   font-family: "Mystery Quest", sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  text-align: center;
+  margin: 20px;
 }
 p {
   font-family: "Henny Penny", sans-serif;
@@ -16,4 +16,18 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+.button-class {
+  font-family: "Mystery Quest", sans-serif;
+  color: rgb(51, 51, 92);
+  font-size: 16px;
+  font-weight: bold;
+  background-color: rgb(255, 255, 86);
+  border: 3px dashed rgb(255, 0, 0);
+  padding: 10px 16px;
+  text-align: center;
+  display: inline-block;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  cursor: pointer;
 }
